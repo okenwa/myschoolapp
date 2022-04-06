@@ -1,0 +1,6 @@
+version: '2'
+services:
+  any:
+    image: schoolapp
+    ports:
+      -"80:80"
