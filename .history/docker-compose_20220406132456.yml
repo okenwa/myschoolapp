@@ -1,5 +1,0 @@
-version: '2'
-services:
-  any:
-    image: schoolapp
-    ports
